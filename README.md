@@ -27,4 +27,19 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+can you write this in readme
+Project Structure
+The project is structured as follows:
 
+
+### Project Structure
+
+
+src/
+assets/: Contains sub-components and reusable components.
+components/: Contains main components.
+data/: Contains data files.
+pages/: Contains page components.
+styles/: Contains CSS styles.
+App.js: Main application file.
+index.js: Entry point for the React application.
