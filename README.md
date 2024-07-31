@@ -1,2 +1,19 @@
 # pacedream_task
-This is a a simple task assigned by pacedream team to make a UI of a page.
+## Description
+This project is a web page designed to meet the specifications provided in the task. It includes various components such as a navbar, header, search bar, filters, and a suggestions list.
+
+## Getting Started
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+To get started, clone the repository and install the necessary dependencies.
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
+
+### Note
+This project does not guarantee full responsiveness on all screen sizes; however, the page provided as a task is what I made exactly.
