@@ -9,11 +9,7 @@ This project is a web page designed to meet the specifications provided in the t
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### Installation
-To get started, clone the repository and install the necessary dependencies.
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+To get started, clone the repository and install the dependencies.
 npm install
 
 ### Note
@@ -27,7 +23,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-can you write this in readme
+
 Project Structure
 The project is structured as follows:
 
